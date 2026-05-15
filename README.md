@@ -1,4 +1,7 @@
 # Doctrine AWS IAM RDS Auth Bundle
+
+![Doctrine AWS IAM RDS Auth Bundle](.github/header.png)
+
 Doctrine AWS IAM RDS Auth Bundle provides a Doctrine DBAL driver decorator that supports AWS IAM RDS authentication.
 
 ## Installation
